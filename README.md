@@ -1,1 +1,1 @@
-# AI-Productivity-Assistant
+# PlanBuddi AI
